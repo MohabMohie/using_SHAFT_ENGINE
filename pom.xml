@@ -4,12 +4,12 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>io.github.mohabmohie</groupId>
 	<artifactId>using_SHAFT_ENGINE</artifactId>
-	<version>3.0.20190826</version>
+	<version>3.1.20190902</version>
 	<name>Using SHAFT_ENGINE</name>
 	<description>This is a sample project to showcase how to get started using SHAFT_Engine, and how to use some of its rich features, while applying the best practices for Test Automation project design.</description>
 	<properties>
 		<!-- Make sure you point to the latest version: https://search.maven.org/search?q=g:io.github.mohabmohie%20AND%20a:SHAFT_ENGINE&core=gav -->
-		<shaft_engine.version>3.0.20190826</shaft_engine.version>
+		<shaft_engine.version>3.1.20190902</shaft_engine.version>
 
 		<!-- The directory for your test suite files -->
 		<testSuite.directory>src\test\resources\TestSuites\</testSuite.directory>
