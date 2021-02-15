@@ -11,7 +11,7 @@
     </description>
 	<properties>
 		<!-- Make sure you point to the latest in-house version: https://automatest.jfrog.io/artifactory/SHAFT_ENGINE/io/github/mohabmohie/SHAFT_ENGINE/ -->
-		<shaft_engine.version>5.1.20210212</shaft_engine.version>
+		<shaft_engine.version>5.1.20210213</shaft_engine.version>
 	</properties>
 	<repositories>
 		<repository>
